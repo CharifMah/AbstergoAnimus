@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T17:34:00.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7vHD8fRGgvLi8rjP3Ooy" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T18:14:50.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="N8OvFj55DzPU3Bo1GZjF" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
     <mxGraphModel dx="885" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,14 +19,14 @@
         <mxCell id="As5ChaSVtp2xo7wZYNX0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-2" target="As5ChaSVtp2xo7wZYNX0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-7" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-7" value="WAN&lt;br&gt;169.254.68.125" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="285" y="30" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="As5ChaSVtp2xo7wZYNX0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-7" target="As5ChaSVtp2xo7wZYNX0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-9" value="AD Windows Server 2019 - Abstergo" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="350" y="530" width="90" height="100" as="geometry" />
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-9" value="AD Windows Server 2019 - Abstergo&lt;br&gt;LAN-Abstergo : 192.168.68.1&lt;br&gt;DNS : localhost" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
