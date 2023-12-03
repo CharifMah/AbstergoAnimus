@@ -1,51 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T19:22:30.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="n2jN3TUDcjTAcKZJIfVR" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T10:25:08.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i2nmV1Ds3Pnlid-Jwfnt" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
-    <mxGraphModel dx="1041" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="885" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-1" target="As5ChaSVtp2xo7wZYNX0-12">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="As5ChaSVtp2xo7wZYNX0-1" target="As5ChaSVtp2xo7wZYNX0-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-1" value="Windows Server 2019 64bits&lt;br&gt;Serveur Hyper-V&lt;br&gt;ipv4 : 172.20.16.100&lt;br&gt;Processeur : Intel Xean Silver 4215R&lt;br&gt;Ram : 16gb" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-1" value="Windows Server 2019 64bits&lt;br&gt;Serveur Hyper-V&lt;br&gt;ipv4 : 172.20.16.100&lt;br&gt;Processeur : Intel Xean Silver 4215R&lt;br&gt;Ram : 16gb" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" parent="1" vertex="1">
           <mxGeometry x="500" y="100" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-2" value="Agent 2111&lt;br&gt;10.96.23.80" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" vertex="1" parent="1">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-2" value="Agent 2111&lt;br&gt;10.96.23.80" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" parent="1" vertex="1">
           <mxGeometry x="50" y="107.5" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-3" value="ipv4 : 172.20.16.1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-3" value="&amp;nbsp;172.20.16.1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" parent="1" vertex="1">
           <mxGeometry x="280" y="213" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-7" value="WAN&lt;br&gt;169.254.68.125" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-7" value="WAN&lt;br&gt;169.254.68.125" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="285" y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-7" target="As5ChaSVtp2xo7wZYNX0-3">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="As5ChaSVtp2xo7wZYNX0-7" target="As5ChaSVtp2xo7wZYNX0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-13" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="222.5" y="340" width="665" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-12" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="As5ChaSVtp2xo7wZYNX0-13">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-12" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="As5ChaSVtp2xo7wZYNX0-13" vertex="1">
           <mxGeometry width="665" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-9" value="AD Windows Server 2019 - Abstergo&lt;br&gt;ipv4 : 192.168.68.1/24&lt;br&gt;Nom du serveur : srv-win-01&lt;br&gt;Services : WSUS, IIS, AD DS, DNS, Serveur de fichier" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="As5ChaSVtp2xo7wZYNX0-13">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-9" value="AD Windows Server 2019 - Abstergo&lt;br&gt;ipv4 : 192.168.68.1/24&lt;br&gt;Nom du serveur : srv-win-01&lt;br&gt;Services : WSUS, IIS, AD DS, DNS, Serveur de fichier" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="As5ChaSVtp2xo7wZYNX0-13" vertex="1">
           <mxGeometry x="295" y="110" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-10" value="Win10-Abstergo&lt;br&gt;Nom d&#39;ordinateur : WIN10-001&lt;br&gt;ipv4 : 192.168.68.102/24&lt;br&gt;Domaine : abstergo.internal" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="As5ChaSVtp2xo7wZYNX0-13">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-10" value="Win10-Abstergo&lt;br&gt;Nom d&#39;ordinateur : WIN10-001&lt;br&gt;ipv4 : 192.168.68.102/24&lt;br&gt;Domaine : abstergo.internal" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="As5ChaSVtp2xo7wZYNX0-13" vertex="1">
           <mxGeometry x="50" y="90" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-11" value="Nom du serveur : srv-dbn-01&lt;br&gt;ipv4 : 192.168.68.10/24" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="As5ChaSVtp2xo7wZYNX0-13">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-11" value="Nom du serveur : srv-dbn-01&lt;br&gt;ipv4 : 192.168.68.10/24" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="As5ChaSVtp2xo7wZYNX0-13" vertex="1">
           <mxGeometry x="530" y="75" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="As5ChaSVtp2xo7wZYNX0-13" source="As5ChaSVtp2xo7wZYNX0-9" target="As5ChaSVtp2xo7wZYNX0-10">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" parent="As5ChaSVtp2xo7wZYNX0-13" source="As5ChaSVtp2xo7wZYNX0-9" target="As5ChaSVtp2xo7wZYNX0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-3" target="As5ChaSVtp2xo7wZYNX0-1">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="As5ChaSVtp2xo7wZYNX0-3" target="As5ChaSVtp2xo7wZYNX0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As5ChaSVtp2xo7wZYNX0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-3" target="As5ChaSVtp2xo7wZYNX0-2">
+        <mxCell id="As5ChaSVtp2xo7wZYNX0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" parent="1" source="As5ChaSVtp2xo7wZYNX0-3" target="As5ChaSVtp2xo7wZYNX0-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="218" y="228" />
