@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T13:50:50.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4_KSl3drY8oIp5nAXjt8" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T14:01:36.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="20kcTvS5gIELuwh-F08D" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
-    <mxGraphModel dx="2049" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-3" value="Serveur Telephonique&lt;br&gt;FreePBX&lt;br&gt;Serveur IPBX" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-44">
           <mxGeometry x="516.5064289183938" y="241.78752648648648" width="88.95497773639897" height="102.92617354196302" as="geometry" />
         </mxCell>
-        <mxCell id="ooX7GeHFqlKIE37vu2fJ-51" value="Server NFS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-44">
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-51" value="Serveur NFS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-44">
           <mxGeometry x="91.52101198186529" y="82.08594753911811" width="88.95497773639897" height="102.92617354196302" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-53" value="" style="group" vertex="1" connectable="0" parent="ooX7GeHFqlKIE37vu2fJ-44">
