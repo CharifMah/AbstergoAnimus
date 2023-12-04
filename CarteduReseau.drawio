@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T09:46:38.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vRVPw0ltl80cAPi4fr7Z" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T09:51:30.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="pRqc0umbH8plRCX_ZfOx" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
-    <mxGraphModel dx="1259" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="As5ChaSVtp2xo7wZYNX0-1" value="Windows Server 2019 64bits&lt;br&gt;Serveur Hyper-V&lt;br&gt;MASTER-2019&lt;br&gt;vEthernet WAN-Abstergo ipv4 : 169.254.2.28&lt;br&gt;Ethernet ipv4 :&amp;nbsp; 172.20.17.221&lt;br&gt;Passerelle : 172.20.16.1/24&lt;br&gt;Processeur : Intel Xean Silver 4215R&lt;br&gt;Ram : 16gb" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" parent="1" vertex="1">
-          <mxGeometry x="490" y="50" width="110" height="120" as="geometry" />
+          <mxGeometry x="620" y="50" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="As5ChaSVtp2xo7wZYNX0-2" value="Agent 2111&lt;br&gt;10.96.23.80" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;" parent="1" vertex="1">
           <mxGeometry x="60" y="87.5" width="105" height="105" as="geometry" />
