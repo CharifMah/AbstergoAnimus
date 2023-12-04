@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T13:38:18.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2H3L2LvPckqYUxqiW4tw" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T13:39:24.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="agKkGFmQhrTOsqw8nbmU" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
-    <mxGraphModel dx="2206" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
           <mxGeometry x="35.245949783785925" y="8.61776061776066" width="23.70243243243243" height="23.70243243243243" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-44" value="" style="group" vertex="1" connectable="0" parent="ooX7GeHFqlKIE37vu2fJ-23">
-          <mxGeometry x="712.1634715025907" y="83.18054054054053" width="561.3523834196891" height="343.5135135135135" as="geometry" />
+          <mxGeometry x="715.0034715025907" y="83.18054054054053" width="561.3523834196891" height="343.5135135135135" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-36" value="&lt;font color=&quot;#5c57ff&quot;&gt;Système d&#39;exploitation&amp;nbsp;: Debian&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Nom du serveur : srv-dbn-01&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ipv4 : 192.168.68.10/24&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-44">
           <mxGeometry width="561.3523834196891" height="343.5135135135135" as="geometry" />
