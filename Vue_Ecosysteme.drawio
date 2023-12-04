@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T21:45:37.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Ham3iTmdmMgox5szYIPj" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T21:48:26.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="NsgpTnlAEhm6AmvzpvBW" version="22.1.5" type="github">
   <diagram name="Page-1" id="3w2cyTi5Xr405L9pnLBw">
     <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           <mxGeometry x="140.13" y="611.05" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jkOUPgpWoj32-msHSbW2-102" value="Niveau de sécurité : A évaluer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="690" width="160" height="30" as="geometry" />
+          <mxGeometry x="563.75" y="690" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jkOUPgpWoj32-msHSbW2-103" value="Contact Sécurité : RSSI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560.13" y="720" width="160" height="30" as="geometry" />
