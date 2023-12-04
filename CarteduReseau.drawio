@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T13:37:19.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2-3BIvPZwryX1bSg1FnB" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T13:38:18.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2H3L2LvPckqYUxqiW4tw" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
-    <mxGraphModel dx="1247" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,25 +101,25 @@
           <mxGeometry x="8.377964121163664" y="8.980195514663603" width="69.20454608454607" height="85.69963963963963" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-39" value="" style="group" vertex="1" connectable="0" parent="ooX7GeHFqlKIE37vu2fJ-44">
-          <mxGeometry width="561.3523834196891" height="343.5135135135135" as="geometry" />
+          <mxGeometry y="-3.18" width="561.3523834196891" height="343.5135135135135" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-4" value="MariaDB" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-39">
-          <mxGeometry x="268.1086010362694" y="58.648648648648646" width="226.21663212435234" height="100.54054054054053" as="geometry" />
+          <mxGeometry x="240" y="58.65" width="280" height="100.54" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-5" value="asterisk" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-39">
-          <mxGeometry x="284.8653886010363" y="83.78378378378379" width="41.8919689119171" height="41.891891891891895" as="geometry" />
+          <mxGeometry x="259.7253886010363" y="87.97378378378379" width="41.8919689119171" height="41.891891891891895" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-6" value="asteriskcdrdb" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-39">
-          <mxGeometry x="351.8925388601036" y="83.78378378378379" width="41.8919689119171" height="41.891891891891895" as="geometry" />
+          <mxGeometry x="357.8325388601036" y="87.97378378378379" width="41.8919689119171" height="41.891891891891895" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-7" value="dolibarrabstergo" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-39">
-          <mxGeometry x="427.29808290155444" y="83.78378378378379" width="41.8919689119171" height="41.891891891891895" as="geometry" />
-        </mxCell>
-        <mxCell id="ooX7GeHFqlKIE37vu2fJ-3" value="Serveur Telephonique&lt;br&gt;FreePBX&lt;br&gt;Serveur IPBX" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-39">
-          <mxGeometry x="452.4332642487047" y="209.45945945945945" width="75.40554404145078" height="83.78378378378379" as="geometry" />
+          <mxGeometry x="452.4380829015545" y="87.97378378378379" width="41.8919689119171" height="41.891891891891895" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-15" value="Serveur TFTP (Protocole de transfert de fichiers Trivial)&lt;br&gt;Port : 69" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-44">
-          <mxGeometry x="100.54072538860103" y="209.45945945945945" width="75.40554404145078" height="83.78378378378379" as="geometry" />
+          <mxGeometry x="127.84072538860103" y="209.45945945945945" width="75.40554404145078" height="83.78378378378379" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-3" value="Serveur Telephonique&lt;br&gt;FreePBX&lt;br&gt;Serveur IPBX" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-44">
+          <mxGeometry x="437.83326424870467" y="196.81945945945944" width="75.40554404145078" height="83.78378378378379" as="geometry" />
         </mxCell>
         <mxCell id="ooX7GeHFqlKIE37vu2fJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ooX7GeHFqlKIE37vu2fJ-23" source="ooX7GeHFqlKIE37vu2fJ-36" target="As5ChaSVtp2xo7wZYNX0-10">
           <mxGeometry relative="1" as="geometry">
