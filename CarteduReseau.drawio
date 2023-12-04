@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T10:21:56.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w5hj03BwTCrngG8WB2Xe" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T10:58:32.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OS2Cszr9o7gfiu3ZQFul" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
-    <mxGraphModel dx="1145" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,10 +62,40 @@
             <mxPoint x="157.4000000000001" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ooX7GeHFqlKIE37vu2fJ-1" value="MariaDB" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="510.71" width="100" height="100" as="geometry" />
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-11" target="ooX7GeHFqlKIE37vu2fJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1540" y="551" />
+              <mxPoint x="1591" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ooX7GeHFqlKIE37vu2fJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-11" target="ooX7GeHFqlKIE37vu2fJ-1">
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-3" value="Serveur Telephonique&lt;br&gt;FreePBX&lt;br&gt;Serveur IPBX" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="660" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="ooX7GeHFqlKIE37vu2fJ-3" target="As5ChaSVtp2xo7wZYNX0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1650" y="490" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-4" value="MariaDB" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-9">
+          <mxGeometry width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-5" value="asterisk" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-9">
+          <mxGeometry x="20" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-6" value="asteriskcdrdb" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-9">
+          <mxGeometry x="100" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-7" value="dolibarrabstergo" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="ooX7GeHFqlKIE37vu2fJ-9">
+          <mxGeometry x="190" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-15" value="Serveur TFTP (Protocole de transfert de fichiers Trivial)&lt;br&gt;Port : 69" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="770" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ooX7GeHFqlKIE37vu2fJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=0;" edge="1" parent="1" source="As5ChaSVtp2xo7wZYNX0-11" target="ooX7GeHFqlKIE37vu2fJ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
