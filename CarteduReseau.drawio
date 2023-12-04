@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T10:21:40.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LFaSJkoiJwTygu4i4eqZ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T10:21:56.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w5hj03BwTCrngG8WB2Xe" version="22.1.5" type="github">
   <diagram name="Page-1" id="lPlKhoa1pe5EaeNsE4Xp">
     <mxGraphModel dx="1145" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,13 +25,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="As5ChaSVtp2xo7wZYNX0-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="730" y="450" width="637.5" height="310" as="geometry" />
+          <mxGeometry x="730" y="440" width="637.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="As5ChaSVtp2xo7wZYNX0-12" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="As5ChaSVtp2xo7wZYNX0-13" vertex="1">
           <mxGeometry width="637.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="As5ChaSVtp2xo7wZYNX0-9" value="AD Windows Server 2019 - Abstergo&lt;br&gt;ipv4 : 192.168.68.1/24&lt;br&gt;Plage DHCP : 192.168.68.100 a 192.168.68.200&amp;nbsp;&lt;br&gt;Nom du serveur : srv-win-01&lt;br&gt;Services : WSUS, IIS, AD DS, DNS, Serveur de fichier" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="As5ChaSVtp2xo7wZYNX0-13" vertex="1">
-          <mxGeometry x="282.80075187969925" y="97.42857142857143" width="86.2781954887218" height="88.57142857142857" as="geometry" />
+          <mxGeometry x="282.80075187969925" y="66.42857142857143" width="86.2781954887218" height="88.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="As5ChaSVtp2xo7wZYNX0-10" value="Win10-Abstergo&lt;br&gt;Nom d&#39;ordinateur : WIN10-001&lt;br&gt;ipv4 : 192.168.68.102/24&lt;br&gt;Domaine : abstergo.internal" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="As5ChaSVtp2xo7wZYNX0-13" vertex="1">
           <mxGeometry x="47.93233082706767" y="79.71428571428571" width="95.86466165413535" height="62" as="geometry" />
