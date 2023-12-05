@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T08:39:41.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="GmOsXZZYL6vBTx-tfPCL" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T08:47:34.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="eRTj0hfQ4ftE3VEsyEHw" version="22.1.5" type="github">
   <diagram name="Page-1" id="KYuWMJmiR7H3UaC-g5s9">
-    <mxGraphModel dx="1542" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="J_kNGodoUKY9twf9flr4-23" value="Confidentialité des informations financières et des dossiers des employés" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="420" y="450" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J_kNGodoUKY9twf9flr4-24" value="Fonctions :&lt;br&gt;&lt;br&gt;RH: Gestion du personnel, recrutement, formation&lt;br&gt;Finances: Budget, comptabilité, gestion des coûts&lt;br&gt;Comptabilité: Tenue des livres, rapports financiers, audits" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="J_kNGodoUKY9twf9flr4-24" value="Fonctions :&lt;br&gt;&lt;br&gt;RH: Gestion du personnel, recrutement, formation&lt;br&gt;Finances: Budget, comptabilité, gestion des coûts&lt;br&gt;Comptabilité: Tenue des livres, rapports financiers, audits" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="425" y="500" width="490" height="95" as="geometry" />
         </mxCell>
         <mxCell id="J_kNGodoUKY9twf9flr4-25" value="Propriétaire: Responsable Administratif" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -81,7 +81,7 @@
         <mxCell id="J_kNGodoUKY9twf9flr4-26" value="Propriétaire: Directeur Administratif" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="630" width="236" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J_kNGodoUKY9twf9flr4-27" value="Utilisations :&lt;br&gt;&lt;br&gt;Planification : Gestion des ressources, allocation des budgets&lt;br&gt;Suivi :Suivi des projets, évaluation des performances&lt;br&gt;Allocation : Distribution des ressources, optimisation des processus" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="J_kNGodoUKY9twf9flr4-27" value="Utilisations :&lt;br&gt;&lt;br&gt;Planification : Gestion des ressources, allocation des budgets&lt;br&gt;Suivi :Suivi des projets, évaluation des performances&lt;br&gt;Allocation : Distribution des ressources, optimisation des processus" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="417" y="680" width="490" height="95" as="geometry" />
         </mxCell>
         <mxCell id="J_kNGodoUKY9twf9flr4-28" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.928;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J_kNGodoUKY9twf9flr4-23" target="J_kNGodoUKY9twf9flr4-15" edge="1">
@@ -90,10 +90,10 @@
         <mxCell id="J_kNGodoUKY9twf9flr4-29" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.945;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J_kNGodoUKY9twf9flr4-22" target="J_kNGodoUKY9twf9flr4-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J_kNGodoUKY9twf9flr4-32" value="Services :&lt;br&gt;&lt;br&gt;Téléphonie, Messagerie, Réunions" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="J_kNGodoUKY9twf9flr4-32" value="Services :&lt;br&gt;&lt;br&gt;Téléphonie, Messagerie, Réunions" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="430" y="840" width="490" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="J_kNGodoUKY9twf9flr4-33" value="Opérations :&lt;br&gt;&lt;br&gt;Innovation, Développement, Tests" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="J_kNGodoUKY9twf9flr4-33" value="Opérations :&lt;br&gt;&lt;br&gt;Innovation, Développement, Tests" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="440" y="1000" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J_kNGodoUKY9twf9flr4-36" value="Propriétaire: DRH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
