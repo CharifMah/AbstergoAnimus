@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T21:14:20.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IMB5bIGhUoBkax6g6TJO" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T21:14:39.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mULZq7MAYIDQoXL-qSvI" version="22.1.5" type="github">
   <diagram name="Page-1" id="3pMDC7dzzsCqvXAolice">
-    <mxGraphModel dx="1373" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1465" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,13 +52,13 @@
           <mxGeometry width="515" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-9" value="asterisk" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fontFamily=Verdana;fontSize=20;rounded=1;" parent="6DxEjiUGqzaD1mDpdGdL-7" vertex="1">
-          <mxGeometry x="39.61538461538461" y="34" width="79.23076923076923" height="51.00000000000001" as="geometry" />
+          <mxGeometry x="45" y="34" width="50.38" height="51" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-10" value="asteriskcdrdb" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fontFamily=Verdana;fontSize=20;rounded=1;" parent="6DxEjiUGqzaD1mDpdGdL-7" vertex="1">
-          <mxGeometry x="207.98076923076923" y="34" width="79.23076923076923" height="51.00000000000001" as="geometry" />
+          <mxGeometry x="207.98" y="34" width="52.02" height="51" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-11" value="dolibarrabstergo" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fontFamily=Verdana;fontSize=20;rounded=1;" parent="6DxEjiUGqzaD1mDpdGdL-7" vertex="1">
-          <mxGeometry x="386.25" y="34" width="79.23076923076923" height="51.00000000000001" as="geometry" />
+          <mxGeometry x="386.25" y="34" width="53.75" height="51" as="geometry" />
         </mxCell>
         <mxCell id="VVOXz9qur7wh59dppFI1-10" value="" style="group" vertex="1" connectable="0" parent="6DxEjiUGqzaD1mDpdGdL-1">
           <mxGeometry x="720" y="160" width="260" height="120" as="geometry" />
