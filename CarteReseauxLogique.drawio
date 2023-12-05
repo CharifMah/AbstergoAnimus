@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T15:04:41.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dXhb3wosqteBV2oPK75Z" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T15:10:06.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3wEEGq6WblpiZ9Q-rEkV" version="22.1.5" type="github">
   <diagram name="Page-1" id="3pMDC7dzzsCqvXAolice">
-    <mxGraphModel dx="1763" dy="2496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="587" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,13 +59,13 @@
           <mxGeometry x="9.950613423669514" y="12.801206281755148" width="79.43325855481258" height="98.36639380934987" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-4" value="Serveur TFTP &lt;br&gt;(Protocole de transfert de fichiers Trivial)&lt;br style=&quot;font-size: 16px;&quot;&gt;Port : 69" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=16;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1">
-          <mxGeometry x="252.37735815180994" y="339.90404117126064" width="89.56011363936767" height="119.43320137416464" as="geometry" />
+          <mxGeometry x="259.9973581518099" y="332.64404117126065" width="89.56011363936767" height="119.43320137416464" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-5" value="Serveur Telephonique&lt;br style=&quot;font-size: 16px;&quot;&gt;FreePBX&lt;br style=&quot;font-size: 16px;&quot;&gt;Serveur IPBX" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=16;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1">
-          <mxGeometry x="493.329737958655" y="339.9064694135645" width="89.56011363936767" height="119.43320137416464" as="geometry" />
+          <mxGeometry x="499.99973795865503" y="332.6464694135645" width="89.56011363936767" height="119.43320137416464" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-6" value="Serveur NFS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=16;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1">
-          <mxGeometry x="20.137073287864403" y="339.9046372387879" width="89.56011363936767" height="119.43320137416464" as="geometry" />
+          <mxGeometry x="29.997073287864403" y="332.64463723878794" width="89.56011363936767" height="119.43320137416464" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-7" value="" style="group;fontFamily=Verdana;fontColor=#0066CC;fontSize=16;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1" connectable="0">
           <mxGeometry x="90" y="104.44" width="420" height="143.32" as="geometry" />
