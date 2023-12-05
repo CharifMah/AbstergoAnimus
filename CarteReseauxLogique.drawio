@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T21:06:42.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hpeG0Y1Za3kKTvfrj6MI" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T21:09:59.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AVCwrYQ-i0ATrx78LRpJ" version="22.1.5" type="github">
   <diagram name="Page-1" id="3pMDC7dzzsCqvXAolice">
-    <mxGraphModel dx="1799" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2353" dy="2432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-4" value="Serveur TFTP &lt;br style=&quot;font-size: 20px;&quot;&gt;(Protocole de transfert &lt;br&gt;de fichiers Trivial)&lt;br&gt;Protocole : TFTP (UDP)&lt;br style=&quot;font-size: 20px;&quot;&gt;Port : 69/UDP" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1">
           <mxGeometry x="337.5" y="412.49999999999994" width="125" height="162.49999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="6DxEjiUGqzaD1mDpdGdL-5" value="Serveur Telephonique&lt;br style=&quot;font-size: 20px;&quot;&gt;FreePBX (Serveur IPBX)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Service utilisée :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Asterisk (PBX)&lt;/span&gt;&lt;/div&gt;Protocole : SIP/TCP/UDP&lt;br&gt;Port : 5060/80/443" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1">
+        <mxCell id="6DxEjiUGqzaD1mDpdGdL-5" value="Serveur Telephonique&lt;br style=&quot;font-size: 20px;&quot;&gt;Asterisk (Serveur IPBX)&lt;br&gt;Protocole : SIP/TCP/UDP&lt;br&gt;Port : 5060/80/443" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1">
           <mxGeometry x="637.5" y="412.49999999999994" width="125" height="162.49999999999997" as="geometry" />
         </mxCell>
         <mxCell id="6DxEjiUGqzaD1mDpdGdL-6" value="Serveur NFS&lt;br&gt;Protocole : TCP/UDP&lt;br&gt;Port :&amp;nbsp;2049" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="6DxEjiUGqzaD1mDpdGdL-1" vertex="1">
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="VVOXz9qur7wh59dppFI1-9" value="dolibarr" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="VVOXz9qur7wh59dppFI1-10">
           <mxGeometry x="154.375" y="37.14285714285714" width="65" height="45.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="VVOXz9qur7wh59dppFI1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;" edge="1" parent="6DxEjiUGqzaD1mDpdGdL-1" source="6DxEjiUGqzaD1mDpdGdL-5" target="6DxEjiUGqzaD1mDpdGdL-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CNsp7IkEd80LU1KmTf57-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;endArrow=block;endFill=1;fontFamily=Verdana;fontColor=#0066CC;fontSize=20;" parent="CNsp7IkEd80LU1KmTf57-93" source="6DxEjiUGqzaD1mDpdGdL-2" target="CNsp7IkEd80LU1KmTf57-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
