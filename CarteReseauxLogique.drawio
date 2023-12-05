@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T20:24:17.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rMt7wQnqI8ufwniBe97Y" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T20:25:56.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kDtvmkg3DNXAsTnyiHSL" version="22.1.5" type="github">
   <diagram name="Page-1" id="3pMDC7dzzsCqvXAolice">
-    <mxGraphModel dx="1937" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3148" dy="2984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,8 +75,8 @@
         <mxCell id="CNsp7IkEd80LU1KmTf57-79" value="Serveur WSUS&amp;nbsp;&lt;br&gt;IPV4 : 192.168.68.1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="H90_qLaPX2IhfmNBg-Q5-40" vertex="1">
           <mxGeometry x="112.49999999999999" y="61.13363636363636" width="125" height="146.7207272727273" as="geometry" />
         </mxCell>
-        <mxCell id="CNsp7IkEd80LU1KmTf57-80" value="DHCP&lt;br style=&quot;font-size: 20px;&quot;&gt;Etendue : &lt;br&gt;192.168.68.100 &lt;br&gt;à&lt;br&gt;&amp;nbsp;192.168.68.200&amp;nbsp;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="H90_qLaPX2IhfmNBg-Q5-40" vertex="1">
-          <mxGeometry x="437.49999999999994" y="61.13363636363636" width="125" height="146.7207272727273" as="geometry" />
+        <mxCell id="CNsp7IkEd80LU1KmTf57-80" value="DHCP&lt;br&gt;IPV4 : 192.168.68.1&lt;br style=&quot;font-size: 20px;&quot;&gt;Etendue : &lt;br&gt;192.168.68.100 &lt;br&gt;à&lt;br&gt;&amp;nbsp;192.168.68.200&amp;nbsp;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="H90_qLaPX2IhfmNBg-Q5-40" vertex="1">
+          <mxGeometry x="435.99999999999994" y="61.13363636363636" width="125" height="146.7207272727273" as="geometry" />
         </mxCell>
         <mxCell id="CNsp7IkEd80LU1KmTf57-81" value="AD DS&lt;br&gt;IPV4 : 192.168.68.1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontFamily=Verdana;fontSize=20;rounded=1;" parent="H90_qLaPX2IhfmNBg-Q5-40" vertex="1">
           <mxGeometry x="760" y="70.00363636363636" width="125" height="146.7207272727273" as="geometry" />
