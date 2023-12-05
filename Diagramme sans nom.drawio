@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T15:48:50.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Avast/119.0.0.0" etag="Kle7WYkJetaE8s57Dxoo" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T15:51:49.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Avast/119.0.0.0" etag="ZHNLPDAJBib1-M3qEZaH" version="22.1.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2238" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="770" y="1040" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1779" value="Invité" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=3;fillColor=#1ba1e2;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="89" y="960" width="150" height="60" as="geometry" />
+          <mxGeometry x="49" y="960" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1780" value="Administrateurs DHCP" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="1080" width="150" height="60" as="geometry" />
@@ -26,55 +26,34 @@
           <mxGeometry x="219" y="1540" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1782" value="Éditeurs de certificats" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1480" width="150" height="60" as="geometry" />
+          <mxGeometry x="770" y="1450" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1783" value="Groupe de réplication dont le mot de passe RODC est autorisé" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="219" y="1150" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1785" value="Serveurs RAS et IAS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1150" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1786" value="Utilisateurs DHCP" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="1240" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1787" value="WSUS Administrators" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1290" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1788" value="WSUS Reporters" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1503.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1789" value="Administrateurs clés" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1360" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1790" value="Admins du domaine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="970" y="1040" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1795" value="DnsUpdateProxy" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1220" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1797" value="Ordinateurs du domaine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1430" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1799" value="Protected Users" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="1310" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1800" value="Utilisateurs du domaine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="503" y="960" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1801" value="Administrateurs clés Entreprise" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1080" width="150" height="60" as="geometry" />
+          <mxGeometry x="503" y="910" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1802" value="Administrateurs de l&#39;entreprise" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1040" width="150" height="60" as="geometry" />
+          <mxGeometry x="499" y="1040" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1803" value="Administrateurs du schéma" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="589.5" y="1300" width="150" height="60" as="geometry" />
+          <mxGeometry x="487.5" y="1290" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1804" value="Contrôleurs de domaine d&#39;entreprise en lecture seule" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="1380" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1805" value="Contrôleurs de domaine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="639" y="1480" width="150" height="60" as="geometry" />
+          <mxGeometry x="487.5" y="1460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1806" value="Contrôleurs de domaine clonable" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="1470" width="150" height="60" as="geometry" />
@@ -100,7 +79,7 @@
             <mxPoint x="549" y="1427.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1817" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3r1CRgV7TEUkl7Pi6vpK-1805" target="3r1CRgV7TEUkl7Pi6vpK-1784">
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1817" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=3;entryX=0.053;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3r1CRgV7TEUkl7Pi6vpK-1805" target="3r1CRgV7TEUkl7Pi6vpK-1784">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="544" y="1402" as="sourcePoint" />
             <mxPoint x="659" y="1360" as="targetPoint" />
@@ -141,26 +120,26 @@
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1824" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=18;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3r1CRgV7TEUkl7Pi6vpK-1779" target="3r1CRgV7TEUkl7Pi6vpK-1828">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="203" y="1130" as="sourcePoint" />
-            <mxPoint x="319" y="964" as="targetPoint" />
+            <mxPoint x="163" y="1130" as="sourcePoint" />
+            <mxPoint x="279" y="964" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1827" value="Invités du domaine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="299" y="960" width="150" height="60" as="geometry" />
+          <mxGeometry x="259" y="960" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1828" value="Invités" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="219" y="740" width="150" height="60" as="geometry" />
+          <mxGeometry x="179" y="740" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1829" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=18;strokeWidth=3;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3r1CRgV7TEUkl7Pi6vpK-1827" target="3r1CRgV7TEUkl7Pi6vpK-1828">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="625" y="925" as="sourcePoint" />
-            <mxPoint x="559" y="920" as="targetPoint" />
+            <mxPoint x="585" y="925" as="sourcePoint" />
+            <mxPoint x="519" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1832" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3r1CRgV7TEUkl7Pi6vpK-1779" target="3r1CRgV7TEUkl7Pi6vpK-1827">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="121" y="1030" as="sourcePoint" />
-            <mxPoint x="247" y="1044" as="targetPoint" />
+            <mxPoint x="81" y="1030" as="sourcePoint" />
+            <mxPoint x="207" y="1044" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1834" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1755" target="3r1CRgV7TEUkl7Pi6vpK-1818">
@@ -176,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1784" value="Groupe de réplication dont le mot de passe RODC est refusé" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1290" width="150" height="80" as="geometry" />
+          <mxGeometry x="739.5" y="1241" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1836" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1755" target="3r1CRgV7TEUkl7Pi6vpK-1802">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -198,10 +177,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1839" value="Propriétaires créateurs de la stratégie de groupe" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="989" y="1300" width="150" height="60" as="geometry" />
+          <mxGeometry x="970" y="1300" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1840" value="Contrôleurs de domaine en lecture seule" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1450" width="150" height="60" as="geometry" />
+          <mxGeometry x="970" y="1450" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1842" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.117;exitY=-0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1755" target="3r1CRgV7TEUkl7Pi6vpK-1800">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -270,7 +249,7 @@
           <mxGeometry x="589" y="470" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1867" value="Serveurs RDS Endpoint" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="594" y="540" width="150" height="60" as="geometry" />
+          <mxGeometry x="589" y="540" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1868" value="Storage Replica Administrators" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="754" y="190" width="150" height="60" as="geometry" />
@@ -391,6 +370,27 @@
         </mxCell>
         <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1918" value="Membre de ( AUTORITE NT )&amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="1332.63" y="1435" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1919" value="Serveurs RAS et IAS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1920" value="WSUS Administrators" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1921" value="WSUS Reporters" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1503.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1922" value="Administrateurs clés" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1923" value="DnsUpdateProxy" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1924" value="Ordinateurs du domaine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1430" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3r1CRgV7TEUkl7Pi6vpK-1925" value="Administrateurs clés Entreprise" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#33FF99;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1080" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
