@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T20:45:51.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="tLCYIBjt7Z6vLBx4AngJ" version="22.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T20:46:32.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="574QSZCo4E2JehFDfhta" version="22.1.6" type="github">
   <diagram name="Page-1" id="gKZ3A1uF7MBAzuNkIEo6">
     <mxGraphModel dx="3217" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -356,7 +356,7 @@
         <mxCell id="4d7ua3U6_0XZJaEiOXKu-22" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="2071" width="61.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4d7ua3U6_0XZJaEiOXKu-23" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;Entité associé à un/des processus&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4d7ua3U6_0XZJaEiOXKu-23" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;Entité associée à un/des processus&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="2095" width="170.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4d7ua3U6_0XZJaEiOXKu-24" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
