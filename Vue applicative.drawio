@@ -1,29 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T17:06:04.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="rAoa2c5iwriBp20ALJKQ" version="22.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T17:27:06.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="_CKAWVcPIesqCkDGoHzp" version="22.1.6" type="github">
   <diagram name="Page-1" id="jzzMi-_hFztrNZO7foin">
-    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2739" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="10ni7AYHpm1WX0gQt79C-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="790" width="450" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="lUjQXZbFKV0-fag81RI8-51" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Abstergo SI - Vue des applications&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF8DC;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-6" y="280" width="840" height="1220" as="geometry" />
         </mxCell>
-        <mxCell id="lUjQXZbFKV0-fag81RI8-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;ERP Dolibarr&lt;/font&gt;&lt;font face=&quot;JBXjPwZdBuk-AYezXWt-&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Verdana&quot;&gt;Système de gestion des ressources d&#39;entreprise (ERP) pour le service Administratif&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="330" height="220" as="geometry" />
+        <mxCell id="lUjQXZbFKV0-fag81RI8-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;ERP Dolibarr&lt;/font&gt;&lt;font face=&quot;JBXjPwZdBuk-AYezXWt-&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;Système de gestion des ressources d&#39;entreprise (ERP) pour le service Administratif&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="80" y="360" width="450" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Z5sDghv-Du__HSJB2cqF-1" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;FreePBX / Asterisk&lt;/font&gt;&lt;font face=&quot;d_6pIcg0GFBlBicc_6x3&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Verdana&quot;&gt;Système de téléphonie IP pour la gestion des communications internes externes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="80" y="730" width="330" height="220" as="geometry" />
+        <mxCell id="Z5sDghv-Du__HSJB2cqF-1" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;FreePBX / Asterisk&lt;/font&gt;&lt;font face=&quot;d_6pIcg0GFBlBicc_6x3&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;Système de téléphonie IP pour la gestion des communications internes externes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="80" y="730" width="450" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Z5sDghv-Du__HSJB2cqF-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;DocuWiki&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Verdana&quot;&gt;Outil de gestion de documentation et de connaissances&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="84" y="1100" width="330" height="220" as="geometry" />
+        <mxCell id="Z5sDghv-Du__HSJB2cqF-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;DocuWiki&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;Outil de gestion de documentation et de connaissances&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="84" y="1100" width="446" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="10ni7AYHpm1WX0gQt79C-1" value="Direction" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="10ni7AYHpm1WX0gQt79C-1" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;Direction&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="579" y="390" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="10ni7AYHpm1WX0gQt79C-2" value="Administratif" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="10ni7AYHpm1WX0gQt79C-2" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px;&quot;&gt;Administratif&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="579" y="580" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="10ni7AYHpm1WX0gQt79C-3" value="Tous les services internes&lt;br&gt;(+ Direction, + Administratif)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="10ni7AYHpm1WX0gQt79C-3" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;Tous les services internes&lt;br&gt;(+ Direction, + Administratif)&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="579" y="930" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-4" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;DICT&lt;/b&gt;&lt;br&gt;&lt;br&gt;Confidentialité et intégrité des données&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="450" width="206" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;DICT&lt;/b&gt;&lt;br&gt;&lt;br&gt;Sécurité des communications&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="830" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-6" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;DICT&lt;/b&gt;&lt;br&gt;&lt;br&gt;Confidentialité des documents partagées&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1180" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-9" value="Communication interne et externe" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="860" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-10" value="Partage de connaissances et de ressources" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-11" value="Application web" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-12" value="Serveur de téléphonie IP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="820" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-13" value="Serveur de téléphonie IP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-14" value="Gestion administration et financière" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="510" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Base de données de gestion &lt;br&gt;des appels : Asteriskcdrdb&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1199.9991804829492" y="836.2475167608427" width="34.22388060672121" height="43.754401905386594" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Serveur Telephonique&lt;br&gt;Asterisk (Serveur IPBX)&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="970" y="823.54" width="51.88" height="56.46" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1150" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="430" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Serveurs internes&lt;br&gt;sous Debian&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1183.54" width="51.88" height="56.46" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Serveur interne&lt;br&gt;sous Debian&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="960" y="458.53999999999996" width="51.88" height="56.46" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Base de données interne &lt;br&gt;de Dolibarr&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1179.9991804829492" y="473.1275167608428" width="34.22388060672121" height="43.754401905386594" as="geometry" />
+        </mxCell>
+        <mxCell id="10ni7AYHpm1WX0gQt79C-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Base de données interne &lt;br&gt;de DocuWiki&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fontSize=16;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1199.9991804829492" y="1189.9975167608427" width="34.22388060672121" height="43.754401905386594" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
