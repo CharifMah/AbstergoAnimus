@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T08:08:03.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="DRJ01EA7859TW3ZfsVig" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T08:20:59.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kjdGChPc51kirabYqPbI" version="22.1.5" type="github">
   <diagram name="Page-1" id="3pMDC7dzzsCqvXAolice">
-    <mxGraphModel dx="3187" dy="2827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1679" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CNsp7IkEd80LU1KmTf57-93" value="" style="group;fontSize=20;verticalAlign=top;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="700" y="-650" width="2390" height="1990" as="geometry" />
+          <mxGeometry x="700" y="-650" width="2390" height="1999.9956279276685" as="geometry" />
         </mxCell>
         <mxCell id="CNsp7IkEd80LU1KmTf57-56" value="&lt;h3 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Système d&#39;exploitation : Windows Server 2019 64bits (10.0, version 17763)&lt;/font&gt;&lt;/h3&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Serveur Hyper-V&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Nom de l&#39;ordinateur : MASTER-2019&lt;br style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Modèle du système : VMware7,1&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;h3 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Commutateur virtuel interne uniquement&lt;/font&gt;&lt;/h3&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;vEthernet (WAN-Abstergo) : 169.254.2.28/24&lt;br style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Ethernet IPV4 :&amp;nbsp; 172.20.17.221/24&lt;br style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;Passerelle : 172.20.16.1/24&lt;br style=&quot;font-size: 20px;&quot;&gt;Methode d&#39;attribution de l&#39;IP : dynamique&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;h3 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Commutateur virtuel privé&lt;/font&gt;&lt;/h3&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Adaptateur Ethernet vmxnet3 #2 ipv4 : 172.20.18.85/20&lt;br style=&quot;font-size: 20px;&quot;&gt;Masque de sous-réseau IPV4 : 255.255.240.00&lt;br style=&quot;font-size: 20px;&quot;&gt;Methode d&#39;attribution de l&#39;IP : fixe&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Processeur : Intel(R) Xeon(R) Silver 4215R CPU&lt;br style=&quot;font-size: 20px;&quot;&gt;Ram : 16gb&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;Plage d&#39;adresses MAC :&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;fontFamily=Verdana;fontColor=#0066CC;fontSize=20;rounded=1;" parent="CNsp7IkEd80LU1KmTf57-93" vertex="1">
           <mxGeometry x="70" width="2160" height="1480" as="geometry" />
@@ -142,10 +142,15 @@
           <mxGeometry x="1600" y="1599.9956279276685" width="800" height="220" as="geometry" />
         </mxCell>
         <mxCell id="VVOXz9qur7wh59dppFI1-4" value="" style="group" parent="CNsp7IkEd80LU1KmTf57-93" vertex="1" connectable="0">
-          <mxGeometry x="1580" y="1679.9956279276685" width="810" height="250" as="geometry" />
+          <mxGeometry x="1580" y="1679.9956279276685" width="810" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jK6cVLjUew7OnQn7gf14-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VVOXz9qur7wh59dppFI1-4" source="H90_qLaPX2IhfmNBg-Q5-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="340.00437207233153" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H90_qLaPX2IhfmNBg-Q5-94" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="VVOXz9qur7wh59dppFI1-4" vertex="1">
-          <mxGeometry width="810" height="250" as="geometry" />
+          <mxGeometry width="810" height="320" as="geometry" />
         </mxCell>
         <mxCell id="H90_qLaPX2IhfmNBg-Q5-53" value="" style="endArrow=classic;html=1;rounded=1;fontSize=40;" parent="VVOXz9qur7wh59dppFI1-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,8 +187,14 @@
         <mxCell id="CNsp7IkEd80LU1KmTf57-109" value="transfert de données bidirectionnel" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=1;" parent="VVOXz9qur7wh59dppFI1-4" vertex="1">
           <mxGeometry x="130" y="135.00437207233153" width="640" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jK6cVLjUew7OnQn7gf14-2" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="VVOXz9qur7wh59dppFI1-4">
+          <mxGeometry x="20" y="206.01" width="90" height="69.99" as="geometry" />
+        </mxCell>
+        <mxCell id="jK6cVLjUew7OnQn7gf14-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Site internet&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="VVOXz9qur7wh59dppFI1-4">
+          <mxGeometry x="143" y="210.00437207233153" width="560" height="66" as="geometry" />
+        </mxCell>
         <mxCell id="H90_qLaPX2IhfmNBg-Q5-68" value="" style="group;rounded=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2675" y="-990" width="300" height="220" as="geometry" />
+          <mxGeometry x="2630" y="-1090" width="300" height="220" as="geometry" />
         </mxCell>
         <mxCell id="H90_qLaPX2IhfmNBg-Q5-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="H90_qLaPX2IhfmNBg-Q5-68" vertex="1">
           <mxGeometry width="300" height="220" as="geometry" />
