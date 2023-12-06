@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T08:12:23.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="LdBxfvVqRdEDID63A5fp" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T08:13:02.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="XzAe2Ul13PSffR6MLJBI" version="22.1.5" type="github">
   <diagram name="Page-1" id="3w2cyTi5Xr405L9pnLBw">
     <mxGraphModel dx="2390" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jkOUPgpWoj32-msHSbW2-65" value="Service Telephonique&lt;br&gt;Asterisk (Serveur IPBX)" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="jkOUPgpWoj32-msHSbW2-65" value="Serveur Telephonique&lt;br&gt;Asterisk (Serveur IPBX)" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="565" y="791.77" width="51.88" height="56.46" as="geometry" />
         </mxCell>
         <mxCell id="jkOUPgpWoj32-msHSbW2-90" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 16px;&quot;&gt;Debian : srv-dbn-01&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;" parent="1" vertex="1">
