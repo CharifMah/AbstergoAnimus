@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T08:08:21.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="4zwhXokdqGSNVCuI9ofW" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T08:09:56.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="16njkQaXbGOGkIpq_BOH" version="22.1.5" type="github">
   <diagram name="Page-1" id="gKZ3A1uF7MBAzuNkIEo6">
     <mxGraphModel dx="3217" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
           <mxGeometry x="880" y="560" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LAl0BLtn_dJEOHX90p5G-89" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Application non identifié&lt;br&gt;&lt;br&gt;&lt;/b&gt;Soutenant le processus&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="790" width="300" height="120" as="geometry" />
+          <mxGeometry x="890" y="900" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LAl0BLtn_dJEOHX90p5G-91" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot;&gt;Commercial&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Service interne&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="1500" width="80" height="120" as="geometry" />
@@ -186,7 +186,10 @@
           <mxGeometry x="290.25" y="1800" width="299.75" height="65" as="geometry" />
         </mxCell>
         <mxCell id="LAl0BLtn_dJEOHX90p5G-97" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;FreePBX / Asterisk&lt;br&gt;&lt;/b&gt;&lt;br&gt;Système de téléphonie IP &lt;br&gt;et de communication&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="970" width="310.5" height="150" as="geometry" />
+          <mxGeometry x="899.5" y="1100" width="310.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zA-j2LOPeNQbG5M3-fdR-1" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;docuwiki&lt;br&gt;&lt;/b&gt;&lt;br&gt;Logiciel de documentation&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="899.5" y="740" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
