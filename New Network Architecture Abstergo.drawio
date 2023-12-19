@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T02:14:13.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ufP2LhX6mxINfrhAQGHg" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:47:54.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KLBWmA1Q9L-IyBWVb9KF" version="22.1.11" type="github">
   <diagram name="Page-1" id="MvZi6WjR5LI27vXb7WO2">
-    <mxGraphModel dx="3434" dy="2525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mZaBF571lBJjx8OvWB_--7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;ABSTERGO1 (OFFICE)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="349" width="1650" height="951" as="geometry" />
+          <mxGeometry x="-600" y="349" width="1650" height="1021" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="1" source="er851UC71g-c0nVrdtV7-32" target="er851UC71g-c0nVrdtV7-31" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -32,58 +32,58 @@
           <mxGeometry x="169.70000000000005" y="93" width="120.6" height="134" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-5" value="" style="group;fontSize=18;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1120" y="30" width="970" height="710" as="geometry" />
+          <mxGeometry x="1120" y="30" width="970" height="810" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-5" vertex="1">
-          <mxGeometry width="970" height="710" as="geometry" />
+          <mxGeometry width="970" height="810" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-2" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-5" vertex="1" connectable="0">
-          <mxGeometry x="65.72320999519462" y="300" width="384.4934262373859" height="350" as="geometry" />
+          <mxGeometry x="65.72" y="342.25" width="374.3613593143872" height="399.3" as="geometry" />
         </mxCell>
-        <mxCell id="mZaBF571lBJjx8OvWB_--6" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;VLAN_ADServer (AD DS, DNS, DHCP)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-2" vertex="1">
-          <mxGeometry width="379.42" height="350" as="geometry" />
+        <mxCell id="mZaBF571lBJjx8OvWB_--6" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;VLAN_ADServer (RODC)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-2" vertex="1">
+          <mxGeometry width="351.079420303505" height="399.3" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-23" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-2" vertex="1" connectable="0">
-          <mxGeometry x="34.49303219605959" y="50" width="346.7803940413263" height="245" as="geometry" />
+          <mxGeometry x="13.206915474581896" y="59.8928873015873" width="320.87781274748266" height="279.51000000000005" as="geometry" />
         </mxCell>
         <mxCell id="er851UC71g-c0nVrdtV7-41" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-23" vertex="1">
-          <mxGeometry x="51.27342623738588" width="37.289764536280636" height="46.6122056703508" as="geometry" />
+          <mxGeometry x="127.12772535843801" y="-12.150128571428572" width="66.6219974219924" height="83.27749677749051" as="geometry" />
         </mxCell>
-        <mxCell id="er851UC71g-c0nVrdtV7-42" value="AD DS + DNS + DHCP&lt;br style=&quot;font-size: 18px;&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-23" vertex="1">
-          <mxGeometry x="-15" y="45" width="210" height="40" as="geometry" />
+        <mxCell id="er851UC71g-c0nVrdtV7-43" value="IPv4 : 192.150.10.10&lt;br style=&quot;font-size: 18px;&quot;&gt;Passerelle : 192.150.10.1&lt;br style=&quot;font-size: 18px;&quot;&gt;DNS : 192.150.10.10&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;redirection -&amp;gt; IP DNS externe&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br style=&quot;font-size: 18px;&quot;&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-2" vertex="1">
+          <mxGeometry x="4.361359314387167" y="227.74906476190478" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="er851UC71g-c0nVrdtV7-43" value="IPv4 : 192.150.10.10&lt;br style=&quot;font-size: 18px;&quot;&gt;Passerelle : 192.150.10.1&lt;br style=&quot;font-size: 18px;&quot;&gt;DNS : 192.150.10.10&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;redirection -&amp;gt; IP DNS externe&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;DHCP (Étendue 1) :&lt;br style=&quot;font-size: 18px;&quot;&gt;192.150.11.0 - 192.150.11.50" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-2" vertex="1">
-          <mxGeometry x="34.49342623738592" y="135" width="310" height="190" as="geometry" />
+        <mxCell id="er851UC71g-c0nVrdtV7-42" value="&lt;b&gt;AD DS (abstergo.local) + DNS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-2" vertex="1">
+          <mxGeometry x="44.10286677903089" y="127.75163354497354" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-3" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-5" vertex="1" connectable="0">
-          <mxGeometry x="494.09" y="300" width="455.91" height="275" as="geometry" />
+          <mxGeometry x="494.09" y="342.2535211267606" width="455.91" height="313.7323943661972" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;VLAN_User&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;15 Users&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-3" vertex="1">
-          <mxGeometry width="455.9099999999999" height="275" as="geometry" />
+          <mxGeometry width="455.9099999999999" height="313.7323943661972" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-27" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-3" vertex="1" connectable="0">
-          <mxGeometry x="222.65372093023257" y="80" width="190.84604651162786" height="147.5" as="geometry" />
+          <mxGeometry x="222.65372093023257" y="91.26760563380282" width="190.84604651162786" height="168.27464788732394" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--34" value="Windows 10 pro&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;IPv4 : Automatique&lt;br style=&quot;font-size: 18px;&quot;&gt;DNS : Automatique" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-27" vertex="1">
-          <mxGeometry y="47.5" width="180" height="100" as="geometry" />
+          <mxGeometry y="54.190140845070424" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--36" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-27" vertex="1">
-          <mxGeometry x="50.89227906976744" width="77.39867441860466" height="50" as="geometry" />
+          <mxGeometry x="50.89227906976744" width="77.39867441860466" height="57.04225352112676" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-28" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-3" vertex="1" connectable="0">
-          <mxGeometry x="42.410232558139526" y="77.5" width="190.84604651162786" height="150" as="geometry" />
+          <mxGeometry x="42.410232558139526" y="88.41549295774648" width="190.84604651162786" height="171.1267605633803" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--33" value="Windows 10 pro&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;IPv4 : Automatique&lt;br style=&quot;font-size: 18px;&quot;&gt;DNS : Automatique" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-28" vertex="1">
-          <mxGeometry y="50" width="180" height="100" as="geometry" />
+          <mxGeometry y="57.04225352112676" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--35" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-28" vertex="1">
-          <mxGeometry x="50.89227906976744" width="77.39867441860466" height="50" as="geometry" />
+          <mxGeometry x="50.89227906976744" width="77.39867441860466" height="57.04225352112676" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-4" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-5" vertex="1" connectable="0">
-          <mxGeometry x="49.99905814512255" y="20" width="278.7409899086977" height="120" as="geometry" />
+          <mxGeometry x="49.99905814512255" y="22.816901408450704" width="278.7409899086977" height="136.90140845070422" as="geometry" />
         </mxCell>
         <mxCell id="er851UC71g-c0nVrdtV7-39" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-4" vertex="1">
-          <mxGeometry width="109.07256126862084" height="80" as="geometry" />
+          <mxGeometry width="109.07256126862084" height="91.26760563380282" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-5" source="er851UC71g-c0nVrdtV7-39" target="mZaBF571lBJjx8OvWB_--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,10 +92,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="er851UC71g-c0nVrdtV7-44" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ff1900&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 18px; display: inline !important;&quot;&gt;VLAN_ADServer2&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;IPv4 : 192.150.10.0/24&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-5" vertex="1">
-          <mxGeometry x="270" y="240" width="200" height="60" as="geometry" />
+          <mxGeometry x="270" y="273.80281690140845" width="200" height="68.45070422535211" as="geometry" />
         </mxCell>
-        <mxCell id="l20Mbu9L8WL3aNmQUQiv-1" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ff1900&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 18px; display: inline !important;&quot;&gt;VLAN_User2&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;IPv4 : 192.150.20.0/24&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6ZlObFO1UDX342JjieMF-5">
-          <mxGeometry x="520" y="240" width="193.7" height="60" as="geometry" />
+        <mxCell id="l20Mbu9L8WL3aNmQUQiv-1" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ff1900&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 18px; display: inline !important;&quot;&gt;VLAN_User2&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;IPv4 : 192.150.20.0/24&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-5" vertex="1">
+          <mxGeometry x="520" y="273.80281690140845" width="193.7" height="68.45070422535211" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=block;startFill=1;" parent="1" source="er851UC71g-c0nVrdtV7-30" target="er851UC71g-c0nVrdtV7-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -243,32 +243,41 @@
         <mxCell id="mZaBF571lBJjx8OvWB_--15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Asterisk&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/mscae/Docker.svg;" parent="6ZlObFO1UDX342JjieMF-14" vertex="1">
           <mxGeometry x="240" width="74.51" height="61.1" as="geometry" />
         </mxCell>
+        <mxCell id="n9al3UgwTn0UfieEVqux-2" value="" style="group;fontSize=18;" vertex="1" connectable="0" parent="6ZlObFO1UDX342JjieMF-15">
+          <mxGeometry x="58" y="76" width="314.51" height="61.100000000000136" as="geometry" />
+        </mxCell>
+        <mxCell id="n9al3UgwTn0UfieEVqux-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Serveur NFS&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/mscae/Docker.svg;" vertex="1" parent="n9al3UgwTn0UfieEVqux-2">
+          <mxGeometry x="54.5" y="1.1368683772161603e-13" width="74.51" height="61.1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9al3UgwTn0UfieEVqux-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Serveur TFTP&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/mscae/Docker.svg;" vertex="1" parent="n9al3UgwTn0UfieEVqux-2">
+          <mxGeometry x="177.5" width="74.51" height="61.1" as="geometry" />
+        </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-17" value="" style="group;fontSize=18;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="14.5" y="739" width="443" height="425" as="geometry" />
+          <mxGeometry x="14.5" y="739" width="443" height="620.0000000000001" as="geometry" />
         </mxCell>
         <mxCell id="mZaBF571lBJjx8OvWB_--18" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ff1900&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; font-size: 18px; display: inline !important;&quot;&gt;VLAN_ADServer&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;IPv4 : 192.168.10.1/23&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-17" vertex="1">
-          <mxGeometry x="30" width="413" height="50" as="geometry" />
+          <mxGeometry x="30" width="413" height="61.91011235955056" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-7" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-17" vertex="1" connectable="0">
-          <mxGeometry y="85" width="430" height="340" as="geometry" />
+          <mxGeometry y="105.25" width="430" height="514.7500000000001" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-13" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-7" vertex="1" connectable="0">
-          <mxGeometry width="430" height="340" as="geometry" />
+          <mxGeometry width="430" height="514.7500000000001" as="geometry" />
         </mxCell>
-        <mxCell id="mZaBF571lBJjx8OvWB_--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;VLAN_ADServer (AD DS, DNS, DHCP)&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-13" vertex="1">
-          <mxGeometry width="430" height="340" as="geometry" />
+        <mxCell id="mZaBF571lBJjx8OvWB_--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;VLAN_ADServer&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-13" vertex="1">
+          <mxGeometry width="430" height="486.15277777777777" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-12" value="" style="group;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-13" vertex="1" connectable="0">
-          <mxGeometry x="40" y="72.5" width="350" height="267.5" as="geometry" />
+          <mxGeometry x="40" y="103.66493055555556" width="385" height="411.0850694444445" as="geometry" />
         </mxCell>
-        <mxCell id="er851UC71g-c0nVrdtV7-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;fontSize=18;fontStyle=1" parent="6ZlObFO1UDX342JjieMF-12" vertex="1">
-          <mxGeometry x="160" width="40" height="50" as="geometry" />
+        <mxCell id="er851UC71g-c0nVrdtV7-21" value="IPv4 : 192.168.20.2&lt;br style=&quot;font-size: 18px;&quot;&gt;Passerelle : 192.168.1.1&lt;br style=&quot;font-size: 18px;&quot;&gt;DNS : 192.168.20.2&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;redirection -&amp;gt; IP DNS externe&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;DHCP (Étendue site interne) :&lt;br style=&quot;font-size: 18px;&quot;&gt;192.168.20.10 à 192.168.168.100&lt;br&gt;&lt;br&gt;(Etendue site externe) :&lt;br&gt;192.150.20.10 a 192.150.20.100" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-12" vertex="1">
+          <mxGeometry x="20" y="92.08701388888889" width="310" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="er851UC71g-c0nVrdtV7-21" value="IPv4 : 192.168.20.2&lt;br style=&quot;font-size: 18px;&quot;&gt;Passerelle : 192.168.1.1&lt;br style=&quot;font-size: 18px;&quot;&gt;DNS : 192.168.20.2&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;redirection -&amp;gt; IP DNS externe&lt;br style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;DHCP (Étendue 1) :&lt;br style=&quot;font-size: 18px;&quot;&gt;192.168.20.10 à 192.168.168.100" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-12" vertex="1">
-          <mxGeometry y="77.5" width="310" height="190" as="geometry" />
+        <mxCell id="er851UC71g-c0nVrdtV7-8" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;AD DS (abstergo.local) + DNS + DHCP + WSUS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-12" vertex="1">
+          <mxGeometry x="-35" y="42.213750000000005" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="er851UC71g-c0nVrdtV7-8" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;AD DS + DNS + DHCP&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="6ZlObFO1UDX342JjieMF-12" vertex="1">
-          <mxGeometry x="70" y="45" width="210" height="40" as="geometry" />
+        <mxCell id="er851UC71g-c0nVrdtV7-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;fontSize=18;fontStyle=1" parent="6ZlObFO1UDX342JjieMF-13" vertex="1">
+          <mxGeometry x="179" y="51.475" width="72" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6ZlObFO1UDX342JjieMF-18" value="" style="group;fontSize=18;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="546.5" y="739" width="430" height="425" as="geometry" />
